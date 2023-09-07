@@ -34,7 +34,9 @@ To create the app follow the steps below
    M. Your code is ready and available on Github
 
    N. now to publish it online follow the steps given in documents folder present in the above code
-3. if you have downloaded the code using the drive link follow these steps
+
+3. if you have downloaded the code using the drive link follow these steps (Note that drive link is available in the word file in documents folder) 
+
    A. after running the commands     
 
    B. Go to GitHub.com
