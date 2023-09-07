@@ -1,10 +1,10 @@
-# notes-app using javascript-local storage
+# Notes-app using javascript-local storage
 
-A Notes App built with vanilla JavaScript and Local Storage.
+# A Notes App built with vanilla JavaScript and Local Storage.
  visit my website-https://thegamingwinner.github.io/Note-project/
 
 
-To create the app follow the steps below
+# To create the app follow the steps below
 1. If you are using GitHb desktop
 
    A. Go to this page on your web browser -https://github.com/TheGamingWinner/Note-project
@@ -33,7 +33,7 @@ To create the app follow the steps below
 
    M. Your code is ready and available on Github
 
-   N. now to publish it online follow the steps given in documents folder present in the above code
+   N. now to publish it online follow the steps given in github-pages-reference.pdf under Documents folder present in the above code
 
 3. if you have downloaded the code using the drive link follow these steps (Note that drive link is available in the word file in documents folder) 
 
@@ -59,7 +59,6 @@ To create the app follow the steps below
 
    M. Your code is ready and available on Github
 
-   N. now to publish it online follow the steps given in documents folder present in the above code
-
+   N. now to publish it online follow the steps given in github-pages-reference.pdf under Documents folder present in the above code
 
 
